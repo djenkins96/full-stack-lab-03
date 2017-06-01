@@ -1,0 +1,26 @@
+
+
+h1 {
+    color: #07889B;     
+}
+
+.friend{
+    background-color:#ff3834;
+    border: solid navy;   
+    border-radius: 15px 80px 1px 1px;
+    width: 43em; 
+    text-align: center;
+
+}
+
+.friend p {
+    text-transform: uppercase;
+}
+
+html {
+    background:powderblue;
+}
+
+h3 {
+    text-transform: uppercase;
+}
